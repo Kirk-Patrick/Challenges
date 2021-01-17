@@ -9,7 +9,10 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-        int maxgap = Solution.BinaryGap(32);
-        System.out.print(maxgap);
+       // int maxgap = Solution.BinaryGap(32);
+        int[] A = {};
+       // Solution.rightRotate(A,3);
+       // System.out.print(maxgap);
+        Solution.distinctElements(A);
     }
 }
