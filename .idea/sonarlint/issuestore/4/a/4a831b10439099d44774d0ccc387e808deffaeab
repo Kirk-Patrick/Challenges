@@ -1,0 +1,9 @@
+
+Z
+java:S1197"8Move the array designator from the variable to the type.(ò‹„ûÿÿÿÿ8¼‹Œ¢ï.
+J
+java:S1172"(Remove this unused method parameter "n".(ç¸Æ›üÿÿÿÿ8Ü´×¢ï.
+8
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ8·ù¢ï.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‘‡‚•øÿÿÿÿ8ò†‘¢ï.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÙéŒ¾ÿÿÿÿÿ8¢ˆ©·ï.
