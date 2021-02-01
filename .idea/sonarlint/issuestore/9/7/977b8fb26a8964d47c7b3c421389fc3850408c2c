@@ -1,0 +1,77 @@
+
+L
+java:S5869E"*Remove duplicates in this character class.(ÃìŸˆúÿÿÿÿ8”ú˜åò.
+Z
+java:S1197K"8Move the array designator from the variable to the type.(Ÿõ„ğüÿÿÿÿ8”ú˜åò.
+V	java:S106«"9Replace this use of System.out or System.err by a logger.(©”Ò¥8”ú˜åò.
+R
+java:S1066Ï"/Merge this if statement with the enclosing one.(­¾¦ùÿÿÿÿ8×¤Î“ó.
+r	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂôĞ¯ÿÿÿÿÿ8”ú˜åò.
+R
+java:S1854D"5Remove this useless assignment to local variable "f".(†Ğ‰8”ú˜åò.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê¶÷„
+^	java:S125¨"<This block of commented-out lines of code should be removed.(„•¡ùÿÿÿÿ8”ú˜åò.
+s	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ÃÉÁıÿÿÿÿ8”ú˜åò.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(îİŸ­8ªâïóğ.
+Z
+java:S1128	"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8”ú˜åò.
+W
+java:S1854E"5Remove this useless assignment to local variable "j".(ÃìŸˆúÿÿÿÿ8”ú˜åò.
+|
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô¡Ûöıÿÿÿÿ8‡í†¾ô.
+M
+java:S1481ë"*Remove this unused "jumps" local variable.(¢œ†¨ûÿÿÿÿ8ÏÏÑ­ó.
+r	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥˜ƒÿÿÿÿÿ8ÇÇ’úğ.
+m	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª«®8”ú˜åò.
+C
+java:S1481D"&Remove this unused "f" local variable.(†Ğ‰8”ú˜åò.
+|
+java:S2293¦"YReplace the type specification in this constructor call with the diamond operator ("<>").(–±º¯ıÿÿÿÿ8Ëñ­’ó.
+r	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂôĞ¯ÿÿÿÿÿ8”ú˜åò.
+?
+java:S1116º"Remove this empty statement.(õ„ßüÿÿÿÿ8”ú˜åò.
+[
+java:S1155‡">Use isEmpty() to check whether the collection is empty or not.(—ïñ`8”ú˜åò.
+e
+java:S1192¹"GDefine a constant instead of duplicating this literal "lowKey" 4 times.(£ÃŒ­8êÈ’ó.
+Z
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(Ğëˆy8ªâïóğ.
+n	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊÏ8”ú˜åò.
+r	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûûé—üÿÿÿÿ8Ÿ›åôğ.
+H
+java:S1481€"*Remove this unused "Blist" local variable.(ÊÊÏ8”ú˜åò.
+H
+java:S1481E"&Remove this unused "j" local variable.(ÃìŸˆúÿÿÿÿ8”ú˜åò.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş°ıÿÿÿÿ8ªâïóğ.
+R
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8¢µóıò.
+p
+java:S1871¼"MThis branch's code block is the same as the block for the branch on line 312.(ÒÌâ–øÿÿÿÿ8êÈ’ó.
+M
+java:S1066°"/Merge this if statement with the enclosing one.(Íù¬œ8Àùû¼ô.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éˆ8¬ëÉøğ.
+r	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûûé—üÿÿÿÿ8Ÿ›åôğ.
+|
+java:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š›ÒÏşÿÿÿÿ8‰š‘ó.
+n	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´«…Ë8Œ¡¯“ó.
+w
+java:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯ëÃŒ8ì¡Ì±ó.
+q
+java:S3981~"OThe length of "A" is always ">=0", so update this test to either "==0" or ">0".(ß Çàÿÿÿÿÿ8”ú˜åò.
+
+java:S1488á"cImmediately return this expression instead of assigning it to the temporary variable "occurrences".(£ô¸8¬×°ıò.
+r	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂôĞ¯ÿÿÿÿÿ8”ú˜åò.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å·Ñ8”ú˜åò.
+P
+java:S1481î"-Remove this unused "minJumps" local variable.(ËÒ£ùÿÿÿÿ8™–õ®ó.
+W
+java:S1854€"9Remove this useless assignment to local variable "Blist".(ÊÊÏ8”ú˜åò.
+s	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ÃÉÁıÿÿÿÿ8”ú˜åò.
+[	java:S106õ"9Replace this use of System.out or System.err by a logger.(ÂéÙÇÿÿÿÿÿ8„ğıò.
+V	java:S106Ú"9Replace this use of System.out or System.err by a logger.(‰úÏ8îåßîò.
+ª
+java:S2681»"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(ÆŒ†×üÿÿÿÿ8”ú˜åò.
+s	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ÃÉÁıÿÿÿÿ8”ú˜åò.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş°ıÿÿÿÿ8ªâïóğ.

@@ -1,9 +1,53 @@
 
-Z
-java:S1197"8Move the array designator from the variable to the type.(ò‹„ûÿÿÿÿ8¼‹Œ¢ï.
-J
-java:S1172"(Remove this unused method parameter "n".(ç¸Æ›üÿÿÿÿ8Ü´×¢ï.
-8
-java:S3626"Remove this redundant jump.(ÉŠ©ƒ8·ù¢ï.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(‘‡‚•øÿÿÿÿ8ò†‘¢ï.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÙéŒ¾ÿÿÿÿÿ8¢ˆ©·ï.
+B
+java:S1481"&Remove this unused "B" local variable.(Ğ•Ô48–ú˜åò.
+Q
+java:S1854"5Remove this useless assignment to local variable "B".(Ğ•Ô48–ú˜åò.
+\
+java:S1854":Remove this useless assignment to local variable "arival".(ÍÙÿáıÿÿÿÿ8ç™‹ƒó.
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8£»Ëóğ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÂã“ıÿÿÿÿ8şÉëöğ.
+C
+java:S1481"&Remove this unused "P" local variable.(ÿı‚ë8–ú˜åò.
+M
+java:S1481"+Remove this unused "arival" local variable.(ÍÙÿáıÿÿÿÿ8ç™‹ƒó.
+X
+java:S1854"6Remove this useless assignment to local variable "ar".(°æ¶†şÿÿÿÿ8™ç˜ıò.
+H
+java:S1481$"&Remove this unused "c" local variable.(Ê˜¬Ûúÿÿÿÿ8âé°ó.
+F
+java:S1481#")Remove this unused "toys" local variable.(üçîØ8èôç¬ó.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿı‚ë8–ú˜åò.
+W
+java:S1854$"5Remove this useless assignment to local variable "c".(Ê˜¬Ûúÿÿÿÿ8âé°ó.
+U
+java:S1854#"8Remove this useless assignment to local variable "toys".(üçîØ8èôç¬ó.
+]	java:S125"<This block of commented-out lines of code should be removed.(Û ²Ëüÿÿÿÿ8Œ‹âöğ.
+W
+java:S1854"5Remove this useless assignment to local variable "A".(âÂã“ıÿÿÿÿ8–ú˜åò.
+W
+java:S1854&"5Remove this useless assignment to local variable "a".(Ê÷şÒıÿÿÿÿ8õá¼ô.
+L
+java:S3740"/Provide the parametrized type for this generic.(«×½8º÷™ıò.
+H
+java:S1481&"&Remove this unused "a" local variable.(Ê÷şÒıÿÿÿÿ8õá¼ô.
+R
+java:S1854"5Remove this useless assignment to local variable "P".(ÿı‚ë8–ú˜åò.
+X	java:S1255"<This block of commented-out lines of code should be removed.(ì­¯8á¡Ï±ó.
+H
+java:S1481"&Remove this unused "A" local variable.(âÂã“ıÿÿÿÿ8–ú˜åò.
+X	java:S1251"<This block of commented-out lines of code should be removed.(÷¸‘•8Ê°¿ó.
+Q
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8„¡éñğ.
+]	java:S125"<This block of commented-out lines of code should be removed.(Ğ§Â°ÿÿÿÿÿ8–ú˜åò.
+]	java:S125:"<This block of commented-out lines of code should be removed.(Ê¤¿Ñøÿÿÿÿ8™ç˜ıò.
+]	java:S125<"<This block of commented-out lines of code should be removed.(ıŸÃÌûÿÿÿÿ8–ú˜åò.
+X	java:S125B"<This block of commented-out lines of code should be removed.(Ü–ªõ8õÛÜøğ.
+]	java:S1257"<This block of commented-out lines of code should be removed.(ÆÖöïúÿÿÿÿ8âé°ó.
+I
+java:S1481"'Remove this unused "ar" local variable.(°æ¶†şÿÿÿÿ8™ç˜ıò.
+L
+java:S3740"/Provide the parametrized type for this generic.(ğ­’é8ºŒ»ó.
+]	java:S125+"<This block of commented-out lines of code should be removed.(Ñé©Ôşÿÿÿÿ8È€š¾ô.
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ•Ô48–ú˜åò.
